@@ -43,7 +43,7 @@ jobs:
           python .tests/grade-assignment.py >> $GITHUB_OUTPUT
 
       - name: Add a comment to the pull request
-        uses:  Automating-GIS-processes-II-2024/create-or-update-comment@v3.0.2
+        uses:  Automating-GIS-processes-II-2024/create-or-update-comment@v4.0.0
         env: ${{ fromJSON(steps.grading.outputs.FEEDBACK) }}
         with:
           issue-number: ${{ github.event.pull_request.number }}
