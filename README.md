@@ -10,14 +10,12 @@ of problems (3-4), you will read in data from a file using
 [pandas](https://pandas.pydata.org) and create
 geometries based on coordinate information in the input data. 
 
-
-- **Exercise 1 is due by Thursday, 9 November 2023, 3 pm**.
+- **Exercise 1 is due by Thursday, 7 November 2024, end of day**.
 
 - Don’t forget to check out the [hints for this week’s
-exercise](https://autogis-site.readthedocs.io/en/latest/lessons/lesson-1/exercise-1.html#hints)
+  exercise](https://autogis-site.readthedocs.io/en/latest/lessons/lesson-1/exercise-1.html#hints)
 
 - Scores on this exercise are out of **20 points**.
-
 
 ## Notes
 
@@ -49,8 +47,7 @@ You can find this feedback in the [‘Pull Request’](../pull/1) that has been
 automatically opened when you [accepted the GitHub classroom 
 assignment](https://classroom.github.com/a/aSlecihw).
 
-
 ## Start working
 
- - [Problems 1 and 2 (10 points)](Exercise-1-problem-1-2.ipynb)
- - [Problems 3 and 4 (10 points)](Exercise-1-problem-3-4.ipynb)
+- [Problems 1 and 2 (10 points)](Exercise-1-problem-1-2.ipynb)
+- [Problems 3 and 4 (10 points)](Exercise-1-problem-3-4.ipynb)
